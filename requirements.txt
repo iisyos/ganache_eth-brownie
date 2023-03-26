@@ -1,0 +1,4 @@
+cmake
+wheel
+setuptools
+eth-brownie
